@@ -18,12 +18,8 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
-.post_text {
-    color: #ffe066
-}
-
 .date {
-    color: #fff5cc;
+    color: #828282;
 }
 
 .save {
@@ -46,5 +42,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-   color: #ffe066;
+    color: #000000;
 }
